@@ -18,6 +18,7 @@ nav {
 nav ul {
     width: 50%;
     margin-left: auto;
+    text-align: right;
 }
 .heroimg {
     height: 600px;
