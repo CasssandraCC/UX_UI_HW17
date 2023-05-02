@@ -8,11 +8,10 @@ div.logo {
     Text-align: center;
 }
 .logocc img { 
-    width: 15%; 
+    width: 50%; 
     height:auto;
 }
 nav {
-    background-color: #efdbda;
     width: 68%;
     padding: 1%;
 }
