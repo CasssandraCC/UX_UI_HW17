@@ -5,7 +5,7 @@ div.logo {
     Text-align: center;
 }
 .logo { 
-    text-align: center;
+    text-align:left
 }
 .inline-block {
     display: inline-block;
