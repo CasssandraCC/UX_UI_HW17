@@ -1,20 +1,27 @@
 
 div.logo {
-    width: 27%;
+    width: 23%;
     padding: 1%;
     Text-align: center;
 }
-.logo img { 
-    width: 50%; 
-    height:auto;
+.logo { 
+    text-align: center;
 }
-nav.inline-block {
+.inline-block {
     display: inline-block;
     vertical-align: top;
 }
-
+nav {
+    width: 73%;
+    padding: 1%;
+}
+nav ul {
+    width: 50%;
+    margin-left: auto;
+}
 .heroimg {
-    padding: 30px;
+    height: 600px;
+    padding: 25px;
 }
 .content {
     width: 500px;
@@ -26,5 +33,8 @@ footer {
 footer ul { 
     display: inline-block;
     vertical-align: top;
+    padding: center;
+}
+footer li {
     padding: center;
 }
