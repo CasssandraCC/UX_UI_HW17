@@ -1,7 +1,4 @@
-nav.inline-block {
-    display: inline-block;
-    vertical-align: top;
-}
+
 div.logo {
     width: 27%;
     padding: 1%;
@@ -11,7 +8,10 @@ div.logo {
     width: 50%; 
     height:auto;
 }
-
+nav.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
 
 .heroimg {
     padding: 30px;
