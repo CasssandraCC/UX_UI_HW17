@@ -7,8 +7,12 @@ div.logo {
     padding: 1%;
     Text-align: center;
 }
-nav.inline-block {
-    width: 72%;
+.logo img { 
+    width:100%; 
+    height:auto;
+}
+nav {
+    width: 68%;
     padding: 1%;
 }
 ul {
